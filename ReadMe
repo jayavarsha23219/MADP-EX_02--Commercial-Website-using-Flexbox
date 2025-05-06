@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date: 06.05.2025
+## Date: 03-05-2025
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -206,8 +206,7 @@ footer {
     bottom: 0; 
     width: 100%; }
 ```
-## OUTPUT
-
+## OUTPUT:
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
