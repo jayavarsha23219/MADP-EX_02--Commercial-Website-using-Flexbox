@@ -1,8 +1,8 @@
-# Ex02 Commercial Website
-## Date: 03-05-2025
+# MADP-EX_02--Commercial-Website-using-Flexbox
+## Date: 09.05.2025
 
 ## AIM
-To create a commercial website using CSS Flexbox.
+To create a Portfolio using HTML and CSS.
 
 ## ALGORITHM
 ### STEP 1
@@ -15,39 +15,36 @@ Create a CSS file (style.css)
 Include a navigation bar with links to different sections.
 
 ### STEP 4
-Add structured sections for Homepage, Products / Services, About Us, Contact Details and User Account.
+Add structured sections for introduction, about, projects, and contact details.
 
 ### STEP 5
-Include social media links at the footer with copyright information.
-
-### STEP 6
 Define global styles for fonts, colors, and layout.
 
-### STEP 7
+### STEP 6
 Style the header, navigation bar, and sections.
 
-### STEP 8
-Use Flexbox for layout design.
+### STEP 7
+Use Flexbox or CSS Grid for layout design.
 
-### STEP 9
+### STEP 8
 Add hover effects and transitions for interactivity.
 
-### STEP 10
+### STEP 9
 Add Images and Media.
 
-### STEP 11
+### STEP 10
 Use optimized images for a professional look.
 
-### STEP 12
+### STEP 11
 Open the HTML file in a browser to check layout and functionality.
 
-### STEP 13
+### STEP 12
 Fix styling issues and refine content placement.
 
-### STEP 14
-Deploy the website.
+### STEP 13
+Deploy the Portfolio.
 
-### STEP 15
+### STEP 14
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
@@ -206,7 +203,10 @@ footer {
     bottom: 0; 
     width: 100%; }
 ```
-## OUTPUT:
+
+## OUTPUT
+
+
 
 ## RESULT
-The program for creating commercial website using CSS Flexbox is executed successfully.
+The program for creating Portfolio using HTML and CSS is executed successfully.
