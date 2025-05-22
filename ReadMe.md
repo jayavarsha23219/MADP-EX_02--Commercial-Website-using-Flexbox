@@ -205,6 +205,9 @@ footer {
 ```
 
 ## OUTPUT
+![Screenshot 2025-05-02 113728](https://github.com/user-attachments/assets/4e1fd2a8-6f77-400d-a890-22089ec66cfc)
+![Screenshot 2025-05-02 113743](https://github.com/user-attachments/assets/16740384-1266-4458-9333-6a6f0b622862)
+![Screenshot 2025-05-02 113754](https://github.com/user-attachments/assets/c587c1d0-8cb2-453f-94ed-0744f0f36681)
 
 
 
